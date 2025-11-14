@@ -1,5 +1,5 @@
 # fizzbuzz
 
-![Image](images/screenshot.png)
-![Image](./images/screenshot.png)
-![Image](/images/screenshot.png)
+![Image](images/1.png)
+![Image](./images/2.png)
+![Image](/images/3.png)
