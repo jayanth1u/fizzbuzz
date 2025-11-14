@@ -1,6 +1,6 @@
 # fizzbuzz
 
-![Image](1/1.png)
-![Image](2/2.png)
-![Image](3/3.png)
-![Image](4/3.png)
+![Image](image/1.png)
+![Image](images/2.png)
+![Image](images/3.png)
+![Image](images/3.png)
