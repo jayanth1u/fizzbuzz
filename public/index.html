@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FizzBuzz Checker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <h1>FizzBuzz Checker</h1>
+            <p class="subtitle">Enter a number to check the FizzBuzz result</p>
+            
+            <div class="input-group">
+                <input type="number" id="numberInput" placeholder="Enter a number" min="1">
+                <button id="checkButton">Check</button>
+            </div>
+            
+            <div id="result" class="result hidden"></div>
+            
+            <div class="info">
+                <h3>Rules:</h3>
+                <ul>
+                    <li>Divisible by 3 → <span class="fizz">Fizz</span></li>
+                    <li>Divisible by 5 → <span class="buzz">Buzz</span></li>
+                    <li>Divisible by both → <span class="fizzbuzz">FizzBuzz</span></li>
+                    <li>Otherwise → The number itself</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
